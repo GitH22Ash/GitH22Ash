@@ -1,5 +1,6 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Ayush+Bijalwan.;)](https://git.io/typing-svg)
 # 💫 About Me:
-🔭 I’m currently working on an **E-Commerce Platform for a Local Mart**  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**  <br>🤝 I’m looking for help with **database performance and backend scalability**  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**  <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**  <br> ⚽💕😄  <br>
+🔭 I’m currently working on an **E-Commerce Platform for a Local Mart**  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**  <br>🤝 **Any suggestions are welcomed**  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**  <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**  <br> ⚽💕😄  <br>
 
 
 ## 🌐 Socials:
@@ -21,7 +22,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=GitH22Ash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=GitH22Ash&icon=2&color=8)](https://visitcount.itsvg.in)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Thanks+for+your+time.)](https://git.io/typing-svg)
+---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
