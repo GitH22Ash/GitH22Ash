@@ -1,6 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello!+My+name+is+Ayush+Bijalwan.;)](https://git.io/typing-svg)
+
+![CoderAsh](https://github.com/user-attachments/assets/2a6f3ca7-8a3c-496f-9b73-252db733ce44)
+
 # 💫 About Me:
-🔭 I’m currently working on an **E-Commerce Platform for a Local Mart**  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**  <br>🤝 **Any suggestions are welcomed**  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**  <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**  <br> ⚽💕😄  <br>
+🔭 I’m currently working on **Acadence** a Saas platform.  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**.  <br>🤝 **Any suggestions are welcomed**.  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**. <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**.  <br> ⚽💕😄  <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itsash_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bijalwan/) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/https://www.reddit.com/user/Acceptable-Tutor-361/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Ayush_B22) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushbijalwan.ab@gmail.com)
@@ -16,9 +19,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=GitH22Ash&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
 [![](https://visitcount.itsvg.in/api?id=GitH22Ash&icon=2&color=8)](https://visitcount.itsvg.in)
 
