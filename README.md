@@ -3,7 +3,7 @@
 ![CoderAsh](https://github.com/user-attachments/assets/2a6f3ca7-8a3c-496f-9b73-252db733ce44)
 
 # 💫 About Me:
-🔭 I’m currently working on **Acadence** a Saas platform.  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**.  <br>🤝 **Any suggestions are welcomed**.  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**. <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**.  <br> ⚽💕😄  <br>
+🔭 I’m currently working on **CapstoneDesk2.0** a Saas platform.  <br>👯 I’m looking to collaborate on **modern web apps using React & Next.js**.  <br>🤝 **Any suggestions are welcomed**.  <br>🌱 I’m currently learning **Prisma , Next.js, and cloud deployment using Docker**. <br>💬 Ask me about **Full-stack development, UI/UX design, and web performance**.  <br> ⚽💕😄  <br>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_itsash_22) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/bijalwan/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ayushbijalwan.ab@gmail.com)
